@@ -1,0 +1,11 @@
+.button{
+    background-color: red;
+}
+
+.text-xl{
+    font-size: 4rem;
+}
+
+.show{
+    border: 10px solid green;
+}

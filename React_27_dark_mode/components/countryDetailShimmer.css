@@ -1,0 +1,27 @@
+
+body{
+    margin: 10px;
+}
+.back{
+    width: 105px;
+    height: 35px;
+    background-color: grey;
+}
+
+.image{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+}
+
+.text{
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+}
+
+.detail-text{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}

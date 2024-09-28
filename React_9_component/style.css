@@ -1,0 +1,23 @@
+.card{
+    width: 250px;
+    border: solid 2px black;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+.card img {
+    width: 100%;
+    max-height: 150px;
+}
+
+.card-content{
+  padding: 0px 8px;
+}
+/* image ko stretch na krwana ho to hum property use krte hai object-fit */
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: space-evenly;
+}

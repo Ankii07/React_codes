@@ -1,0 +1,16 @@
+{
+  "name": "react_50_build_own_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.7",
+    "parcel": "^2.12.0"
+  }
+}

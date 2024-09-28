@@ -1,0 +1,5 @@
+
+// yh react nhi hai hum js ko bta rhe hai isko react.createElement mai convert kr do humne react install kiya nhi hai tb bhi. 
+{
+    "presets": ["@babel/preset-react"]
+}
